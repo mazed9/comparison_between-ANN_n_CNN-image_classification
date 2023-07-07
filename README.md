@@ -1,1 +1,2 @@
 # comparison_between-ANN_n_CNN-image_classification
+In this project, I classified images from the cifar10 dataset from tensorflow keras datasets. There are total of 10 classes as shown below. I used an ANN and a CNN model to classify and compared their performances.![download](https://github.com/mazed9/comparison_between-ANN_n_CNN-image_classification/assets/129746942/f5adf009-3daa-410e-a3ce-2f4a8f89b374)
